@@ -143,3 +143,4 @@
       });
     }
     form.addEventListener("submit", handleSubmit)
+  })
